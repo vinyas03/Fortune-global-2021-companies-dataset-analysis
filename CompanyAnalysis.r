@@ -1,4 +1,4 @@
-#load the necessary packages
+#loading the necessary packages
 install.packages("plotrix")
 library(plotrix)
 
