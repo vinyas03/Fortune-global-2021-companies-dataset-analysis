@@ -121,7 +121,7 @@ abline(model,col="red")
 mtext(paste("Correlation coefficient=",format(round(cor(rank,sales),3),nsmall=3)),side=3,adj=1,col="red")
 
 
-#7.Predict rank of a company in this dataset by inputting sales data:
+#7.Predicting the rank of a company in this dataset by inputting sales data:
 predictRank<-function(){
 sale<-readline()
 sale<-as.numeric(sale)
