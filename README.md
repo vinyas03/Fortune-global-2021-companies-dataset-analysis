@@ -6,5 +6,5 @@ R project to analyze and visualize the data of top 2000 companies in 2021 accord
 2) Added Rank vs Sales linear regression line and found the correlation between the two.
 3) Linear regression model for predicting Rank from the Sales.
 
-## Dataset source:
-[🔗](https://www.kaggle.com/datasets/shivamb/fortune-global-2000-companies-till-2021)
+## Dataset used:
+[Source 🔗](https://www.kaggle.com/datasets/shivamb/fortune-global-2000-companies-till-2021)
